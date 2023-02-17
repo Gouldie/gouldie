@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gouldie
 - 👀 I’m interested in all things web dev, specialising in the React/Node space
-- 🌱 Tech I'm learning in 2022: Flutter, Docker, AWS, Serverless architecture
+- 🌱 Tech I'm learning in 2023: TypeScript
 - 📫 Reach me @gouldieweb on twitter
 
 <!---
